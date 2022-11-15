@@ -1,7 +1,7 @@
 ---
 title: "Group Work Plan"
 subtitle: "STT2860 F22 Project 02"
-author: "Authors: ALL GROUP MEMBER NAMES HERE"
+author: "Authors: Cameron Lyons, Benjamin Shaffer, Dan Miller"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,18 +12,17 @@ output:
 
 **Work Plan/Assignments**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLAN FOR COMPLETING THE PROJECT WORK
-
-INCLUDE WHO WILL BE RESPONSIBLE FOR COMPLETING WORK, UPLOADING DOCUMENTS, ETC.
-
-YOU SHOULD ALSO HAVE A PLAN FOR CHECKING ONE ANOTHER'S WORK IF YOU SPLIT IT UP
+Capital Punishment in the U.S. completed together.
+Cameron will upload that rmd.
+Ben will upload work plan.
+Dan will upload updated work plan.
 
 **Completion Timeline**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLANNED TIMELINE FOR TASK COMLETION
+Have group assignment done by Thursday's class end. Complete work plan assignments after each class. Complete individual assignments on own time.
 
 **Communication Plan**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLAN FOR EFFECTIVE GROUP COMMUNICATION
+Stay in contact through GroupMe.
 
 ***

@@ -1,7 +1,7 @@
 ---
 title: "Group Project Update"
 subtitle: "STT2860 F22 Project 02"
-author: "Authors: ALL GROUP MEMBER NAMES HERE"
+author: "Authors: Cameron Lyons, Dan Miller, Benjamin Shaffer"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -14,18 +14,18 @@ output:
 
 Refer back to your original work plan. Has anything changed? Who has completed what portions of the project? Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+Cameron and Ben completed the executions USA group assignment and all that is left is individual work to complete on our own.
 
 **Completion Timeline Update**
 
 Refer back to your original timeline. Has anything changed? What pieces of the project are done and what are still left to do? Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+Only individual work needs to be finished. Everything went according to plan besides backing the due date a class period due to R servers.
 
 **Communication Update**
 
 Refer back to your communication plan. Has anything changed? Has everyone communicated in an effective and timely manner? Be honest! Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+Tried to contact Dan today through group chat and got no response. The groupMe has worked thus far to communicate outside class periods.
 
 ***

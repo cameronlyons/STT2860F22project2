@@ -1,7 +1,7 @@
 ---
 title: "Becoming a Data Scientist"
 subtitle: "STT2860 Project 01 Fall 2022"
-author: "YOUR NAME HERE"
+author: "Cameron Lyons"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,43 +12,43 @@ output:
 
 **Q1: What is the name of the person interviewed?**
 
-ANSWER:
+ANSWER: Andrew Therriault
 
 **Q2: Why did you choose the particular interview you did?**
 
-ANSWER:
+ANSWER: To be honest it was the most recent post and mentioned that it had a live audience so I figured it was popular.
 
 **Q3: Does the person consider themselves a data scientist?**
 
-ANSWER:
+ANSWER: Therriault considers himself a data scientist under a broad spectrum form the very basics to the complexities he works with.
 
 **Q4: What is their formal and self-taught education in data science?**
 
-ANSWER:
+ANSWER: He never had any formal learning experience until he went into graduate school as a political science major. After graduate school Therriault taught himself Python and SQL.
 
 **Q5: What has been their career path? Did they start off in data science?**
 
-ANSWER:
+ANSWER: He began in a upstart with a local professor and graduate student who worked with the Obama campaign. Networking was a major factor in his career. 
 
 **Q6: What programs/technologies to they use when working in data science?**
 
-ANSWER:
+ANSWER: Therriault worked in R throughout college and began learning Python and SQL after. He self taught Python and SQL because the project he was working on at the time simply didn't do what he wanted to program it to do.
 
 **Q7: What is one interesting (to you) data science problem they have worked on?**
 
-ANSWER:
+ANSWER: Working with a non-profit to create a search finding all US citizens that are looking for health care that doesn't have it. I found this project very direct and seemed to me to be difficult to put a model together.
 
 **Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
 
-ANSWER:
+ANSWER: Even though I view Therraiult as a genius, he still ran into projects he didn't know how to complete. He stated that anytime working on a project someone has done it as well and stack overflow is a coders best friend.
 
 **Q9: Was there anything that surprised you or that you particularly identified with?**
 
-ANSWER:
+ANSWER: I consider myself a well rounded baseball analyst when creating graphics. However what scares me is going into a job or internship with more of a technical background. Therraiult calmed me in this saying the best work comes from pen and paper and is applied to code. I have a deep baseball background so finding a future job with a pen and paper approach eases my outlook.
 
 **Q10: Q10: How did this person path differ from the previous interview you watched?**
 
-ANSWER:
+ANSWER: Rivera knew what she wanted to do as a data scientist entering college whereas Therraiult didn't know until grad school what his future was going to be.
 
 <hr>
 
